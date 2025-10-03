@@ -75,6 +75,7 @@
     "variant_button_border_width": 1,
     "variant_button_radius": 14,
     "variant_button_width": "equal-width-buttons",
+    "content_for_index": [],
     "color_schemes": {
       "scheme-1": {
         "settings": {
@@ -122,7 +123,7 @@
           "foreground": "#000000cf",
           "primary": "#000000cf",
           "primary_hover": "#ffffff",
-          "border": "#DFDFDF",
+          "border": "#dfdfdf",
           "shadow": "#000000",
           "primary_button_background": "#000000",
           "primary_button_text": "#ffffff",
@@ -156,7 +157,7 @@
       },
       "scheme-3": {
         "settings": {
-          "background": "#eef1ea",
+          "background": "#fdfbf7",
           "foreground_heading": "#000000",
           "foreground": "#000000cf",
           "primary": "#000000cf",
@@ -164,7 +165,7 @@
           "border": "#000000cf",
           "shadow": "#000000",
           "primary_button_background": "#000000",
-          "primary_button_text": "#ffffff",
+          "primary_button_text": "#edffa7",
           "primary_button_border": "#000000",
           "primary_button_hover_background": "#333333",
           "primary_button_hover_text": "#ffffff",
