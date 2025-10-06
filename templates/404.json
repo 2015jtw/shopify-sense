@@ -104,13 +104,37 @@
             "padding-inline-end": 0
           },
           "blocks": {}
+        },
+        "image_jPt4VN": {
+          "type": "image",
+          "name": "t:names.image",
+          "settings": {
+            "image": "shopify://shop_images/man-adjusts-blue-tuxedo-bowtie_925x_85b5a431-2db3-4828-8627-ec19f373584e.jpg",
+            "link": "",
+            "image_ratio": "adapt",
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
         }
       },
       "block_order": [
         "text_GqmVFf",
         "text_Ua9XAW",
         "button_PAQMwR",
-        "text_D8CEJa"
+        "text_D8CEJa",
+        "image_jPt4VN"
       ],
       "settings": {
         "content_direction": "column",
